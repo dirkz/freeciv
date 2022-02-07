@@ -169,7 +169,7 @@ msgid ""
 "*%s (AI)* Greetings %s! May we suggest a ceasefire while we get to know each "
 "other better?"
 msgstr ""
-"*%s (KI)* Sei gegrüßt, %s! Dürfen wir eine Feuerpause vorschlagen, damit wir "
+"*%s (KI)* Seien Sie gegrüßt, %s! Dürfen wir eine Feuerpause vorschlagen, damit wir "
 "uns besser kennenlernen können?"
 
 #: ai/default/daidiplomacy.c:970
