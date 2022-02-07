@@ -71,7 +71,7 @@ msgstr ""
 "Project-Id-Version: 1.15\n"
 "Report-Msgid-Bugs-To: https://osdn.net/projects/freeciv/ticket/\n"
 "POT-Creation-Date: 2022-02-01 16:03+0200\n"
-"PO-Revision-Date: 2016-11-16 23:36+0100\n"
+"PO-Revision-Date: 2022-02-07 19:07+0100\n"
 "Last-Translator: Marvin Gülker <m-guelker@phoenixmail.de>\n"
 "Language-Team: German Freeciv Translators <freeciv-de@googlegroups.com>\n"
 "Language: de\n"
@@ -79,10 +79,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Poedit-Language: German\n"
-"X-Poedit-Country: GERMANY\n"
 "X-Poedit-Basepath: ../..\n"
-"X-Generator: Poedit 1.8.9\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ai/default/aicity.c:967
 #, fuzzy, c-format
@@ -180,6 +178,8 @@ msgid ""
 "*%s (AI)* I found you %s! Now make it worth my letting you live, or be "
 "crushed."
 msgstr ""
+"*%s (AI)* Ich habe Sie gefunden, %s! Geben Sie mir einen Grund, Sie am leben "
+"zu lassen, oder ich werde Sie zermalmen."
 
 #: ai/default/daidiplomacy.c:1286
 #, c-format
@@ -460,7 +460,7 @@ msgstr ""
 
 #: ai/difficulty.c:267
 msgid "Has erratic decision-making."
-msgstr ""
+msgstr "Trifft unvorhersehbare Entscheidungen."
 
 #: ai/difficulty.c:274
 #, c-format
